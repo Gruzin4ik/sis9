@@ -1,0 +1,11 @@
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\bin\Debug\Sis_Shelia9.exe.config
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\bin\Debug\Sis_Shelia9.exe
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\bin\Debug\Sis_Shelia9.pdb
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\obj\Debug\Sis_Shelia9.csproj.AssemblyReference.cache
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\obj\Debug\Sis_Shelia9.csproj.SuggestedBindingRedirects.cache
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\obj\Debug\Sis_Shelia9.Form1.resources
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\obj\Debug\Sis_Shelia9.Properties.Resources.resources
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\obj\Debug\Sis_Shelia9.csproj.GenerateResource.cache
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\obj\Debug\Sis_Shelia9.csproj.CoreCompileInputs.cache
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\obj\Debug\Sis_Shelia9.exe
+C:\Users\gruzi\source\repos\Sis_Shelia9\Sis_Shelia9\obj\Debug\Sis_Shelia9.pdb
